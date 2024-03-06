@@ -1,4 +1,4 @@
-HELIOSTAT
+Heliostat
 ----------
 Celem projektu było stworzenie działającego heliostatu, który ustawia lustro pod odpowiednim kątem na podstawie obliczanej ścieżki Słońca i odbija promienie słoneczne w jeden, wybrany punkt.
 
